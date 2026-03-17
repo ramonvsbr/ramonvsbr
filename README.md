@@ -1,4 +1,4 @@
-Aprendendo um pouco enquanto tento me formar.
+sadasdasdasf asfasdfs fsd sf .
 
 <!---
 ramonvsbr/ramonvsbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
