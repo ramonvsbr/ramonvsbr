@@ -1,6 +1,6 @@
 ## Olá! 👋🌱
 
-Sou um **Graduando em Agronomia**. Busco construir soluções pessoais, ferramentas digitais (AgTech) e apoiar o ecossistema Open Source.
+Sou um **Graduando em Agronomia**. Soluções pessoais, ferramentas digitais e apoiar o ecossistema Open Source.
 
 ## 🚀 O que eu construo
 
