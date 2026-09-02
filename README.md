@@ -25,9 +25,7 @@ Sou um **Graduando em Agronomia**. Busco construir soluções pessoais, ferramen
 ## 📫 Como me encontrar
 
 - 🌐 **Site:** [ramon.net.br](https://ramon.net.br)
-  
----
-⭐️ *Sinta-se à vontade para abrir uma issue ou PR nos projetos públicos.*
+
 <!---
 ramonvsbr/ramonvsbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
