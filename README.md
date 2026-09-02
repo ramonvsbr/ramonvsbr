@@ -1,4 +1,4 @@
-## Olá! Eu sou o Ramon 👋🌱
+## Olá! 👋🌱
 
 Sou um **Graduando em Agronomia**. Busco construir soluções pessoais, ferramentas digitais (AgTech) e apoiar o ecossistema Open Source.
 
