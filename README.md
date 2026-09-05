@@ -7,7 +7,7 @@ Sou um **Graduando em Agronomia**. Busco construir soluções pessoais, ferramen
 🌾 **AgTech & Agronomia:**
 - [**sigweb-caprinu**](https://github.com/ramonvsbr/sigweb-caprinu): Sistema SIG WEB para suporte à gestão da ovinocaprinocultura (integrado à plataforma Caprinu).
 - [**safrural**](https://github.com/ramonvsbr/safrural): Análise de viabilidade financeira de projetos rurais (VPL, TIR, Payback).
-- [**agricalc**](https://github.com/ramonvsbr/agricalc):Conjunto de calculadoras e simuladores agronômicos desenvolvidos para apoiar produtores, consultores e engenheiros agrônomos.
+- [**agricalc**](https://github.com/ramonvsbr/agricalc): Conjunto de calculadoras e simuladores agronômicos desenvolvidos para apoiar produtores, consultores e engenheiros agrônomos.
 
 💡 **Serviços & Startups:**
 - [**Saldo Simples**](https://github.com/ramonvsbr/saldosimples): Web app (PWA) leve, minimalista e responsivo para controle financeiro pessoal.
